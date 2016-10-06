@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: StartThemeEmptyExamples\n"
+"POT-Creation-Date: 2016-09-30 00:46+0500\n"
+"PO-Revision-Date: 2016-09-30 00:46+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: libs\n"
+"X-Poedit-SearchPathExcluded-2: js\n"
+"X-Poedit-SearchPathExcluded-3: inc/classes/meta-box\n"
+
+#: 404.php:18
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: inc/classes/class-cpt.php:425 inc/classes/class-cpt.php:426
+#: inc/classes/class-cpt.php:427 inc/classes/class-cpt.php:428
+#: inc/classes/class-cpt.php:531 inc/classes/class-cpt.php:532
+#: inc/classes/class-cpt.php:793
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/classes/class-cpt.php:429
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: inc/classes/class-cpt.php:430 inc/classes/class-cpt.php:538
+#, php-format
+msgid "Add New %s"
+msgstr "Добавить новую %s"
+
+#: inc/classes/class-cpt.php:431 inc/classes/class-cpt.php:535
+#, php-format
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#: inc/classes/class-cpt.php:432
+#, php-format
+msgid "New %s"
+msgstr "Новый %s"
+
+#: inc/classes/class-cpt.php:433 inc/classes/class-cpt.php:536
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: inc/classes/class-cpt.php:434 inc/classes/class-cpt.php:542
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/classes/class-cpt.php:435 inc/classes/class-cpt.php:546
+#, php-format
+msgid "No %s found"
+msgstr "%s не найдено."
+
+#: inc/classes/class-cpt.php:436
+#, php-format
+msgid "No %s found in Trash"
+msgstr "%s не найдено в корзине"
+
+#: inc/classes/class-cpt.php:437 inc/classes/class-cpt.php:541
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: inc/classes/class-cpt.php:521
+msgid "Category"
+msgstr "Рубрику"
+
+#: inc/classes/class-cpt.php:523 inc/classes/class-cpt.php:533
+#: inc/post-type/portfolio.php:22 inc/post-type/post.php:13
+#: inc/POST-T~1/SLIDER~1.PHP:20 inc/post-type/slider.php:20
+#: inc/post-type/sponsors.php:20
+msgid "Categories"
+msgstr "Рубрики"
+
+#: inc/classes/class-cpt.php:534
+msgid "All Categories"
+msgstr "Все рубрики"
+
+#: inc/classes/class-cpt.php:537
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: inc/classes/class-cpt.php:539
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: inc/classes/class-cpt.php:540
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: inc/classes/class-cpt.php:543
+#, php-format
+msgid "Seperate %s with commas"
+msgstr ""
+
+#: inc/classes/class-cpt.php:544
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: inc/classes/class-cpt.php:545
+#, php-format
+msgid "Choose from most used %s"
+msgstr ""
+
+#: inc/classes/class-cpt.php:867
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: inc/classes/class-cpt.php:993
+#, php-format
+msgid "Show all %s"
+msgstr ""
+
+#: inc/classes/class-cpt.php:1211 inc/classes/class-cpt.php:1214
+#: inc/classes/class-cpt.php:1216
+#, php-format
+msgid "%s updated."
+msgstr ""
+
+#: inc/classes/class-cpt.php:1212
+msgid "Custom field updated."
+msgstr ""
+
+#: inc/classes/class-cpt.php:1213
+msgid "Custom field deleted."
+msgstr ""
+
+#: inc/classes/class-cpt.php:1215
+#, php-format
+msgid "%2$s restored to revision from %1$s"
+msgstr ""
+
+#: inc/classes/class-cpt.php:1217
+#, php-format
+msgid "%s saved."
+msgstr ""
+
+#: inc/classes/class-cpt.php:1218
+#, php-format
+msgid "%s submitted."
+msgstr ""
+
+#: inc/classes/class-cpt.php:1220
+#, php-format
+msgid "%2$s scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: inc/classes/class-cpt.php:1221
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: inc/classes/class-cpt.php:1224
+#, php-format
+msgid "%s draft updated."
+msgstr ""
+
+#: inc/classes/class-cpt.php:1243 inc/classes/class-cpt.php:1244
+#: inc/classes/class-cpt.php:1245 inc/classes/class-cpt.php:1246
+#: inc/classes/class-cpt.php:1247
+#, php-format
+msgid "%s "
+msgid_plural "%s "
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/classes/class-settings-api.php:347
+msgid "Choose File"
+msgstr ""
+
+#: inc/post-type/contact.php:9
+msgid "Contact"
+msgstr "Контакт"
+
+#: inc/post-type/contact.php:10
+msgid "Contacts"
+msgstr "Контакты"
+
+#: inc/post-type/contact.php:21 inc/post-type/contact.php:46
+#: inc/post-type/contact.php:70
+msgid "Name"
+msgstr "Имя"
+
+#: inc/post-type/contact.php:22 inc/post-type/contact.php:76
+msgid "Email"
+msgstr "Емейл"
+
+#: inc/post-type/contact.php:23 inc/post-type/contact.php:82
+msgid "Message"
+msgstr "Сообщение"
+
+#: inc/post-type/contact.php:24 inc/post-type/contact.php:88
+msgid "IP"
+msgstr "IP"
+
+#: inc/post-type/contact.php:25
+msgid "Submitted on"
+msgstr ""
+
+#: inc/post-type/contact.php:64 inc/post-type/portfolio.php:50
+#: inc/POST-T~1/SLIDER~1.PHP:57 inc/post-type/slider.php:48
+#: inc/post-type/sponsors.php:48 inc/post-type/team.php:35
+msgid "Options"
+msgstr "Параметры"
+
+#: inc/post-type/contact.php:94
+msgid "File"
+msgstr ""
+
+#: inc/post-type/page.php:11 inc/post-type/page.php:43
+#: inc/post-type/portfolio.php:20 inc/post-type/post.php:11
+#: inc/POST-T~1/SLIDER~1.PHP:18 inc/post-type/slider.php:18
+#: inc/post-type/sponsors.php:18 inc/post-type/team.php:18
+msgid "Title"
+msgstr ""
+
+#: inc/post-type/page.php:14 inc/post-type/post.php:16
+msgid "Views"
+msgstr "Просмотры"
+
+#: inc/post-type/page.php:36
+msgid "SEO"
+msgstr ""
+
+#: inc/post-type/page.php:48 inc/post-type/portfolio.php:62
+#: inc/POST-T~1/SLIDER~1.PHP:69 inc/post-type/slider.php:60
+#: inc/post-type/sponsors.php:60
+msgid "Description"
+msgstr "Описание"
+
+#: inc/post-type/page.php:53 inc/theme-settings.php:96
+msgid "Keywords"
+msgstr ""
+
+#: inc/post-type/portfolio.php:9 inc/post-type/portfolio.php:10
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: inc/post-type/portfolio.php:21 inc/POST-T~1/SLIDER~1.PHP:19
+#: inc/post-type/slider.php:19 inc/post-type/sponsors.php:19
+#: inc/post-type/team.php:19
+msgid "Image"
+msgstr ""
+
+#: inc/post-type/portfolio.php:23 inc/post-type/portfolio.php:67
+#: inc/POST-T~1/SLIDER~1.PHP:21 inc/POST-T~1/SLIDER~1.PHP:74
+#: inc/post-type/slider.php:21 inc/post-type/slider.php:65
+#: inc/post-type/sponsors.php:21 inc/post-type/sponsors.php:65
+msgid "Order"
+msgstr "Порядок"
+
+#: inc/post-type/portfolio.php:57 inc/POST-T~1/SLIDER~1.PHP:64
+#: inc/post-type/slider.php:55 inc/post-type/sponsors.php:55
+msgid "URL"
+msgstr ""
+
+#: inc/post-type/post.php:15
+msgid "Date"
+msgstr ""
+
+#: inc/POST-T~1/SLIDER~1.PHP:9 inc/post-type/slider.php:9
+msgid "Slide"
+msgstr "Слайд"
+
+#: inc/POST-T~1/SLIDER~1.PHP:10 inc/post-type/slider.php:10
+msgid "Slides"
+msgstr "Слайды"
+
+#: inc/post-type/sponsors.php:9
+msgid "Sponsor"
+msgstr "Спонсор"
+
+#: inc/post-type/sponsors.php:10
+msgid "Sponsors"
+msgstr "Спонсоры"
+
+#: inc/post-type/team.php:9 inc/post-type/team.php:10
+msgid "Team"
+msgstr "Команда"
+
+#: inc/theme-admin.php:82
+msgid "Welcome to WordPress!"
+msgstr ""
+
+#: inc/theme-demo.php:21 inc/theme-menu.php:6
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/theme-head.php:55 inc/theme-head.php:57
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/theme-menu.php:8
+msgid "Main Menu"
+msgstr "Главный Меню"
+
+#: inc/theme-settings.php:27 inc/theme-settings.php:229
+msgid "Theme Settings"
+msgstr "Настройки Темы"
+
+#: inc/theme-settings.php:35
+msgid "Main"
+msgstr "Основные"
+
+#: inc/theme-settings.php:39
+msgid "Sections View"
+msgstr "Видимость разделов"
+
+#: inc/theme-settings.php:43 inc/theme-settings.php:157
+msgid "Main Section"
+msgstr "Главный раздел"
+
+#: inc/theme-settings.php:47 inc/theme-settings.php:163
+msgid "Contacts Section"
+msgstr "Раздел контактов"
+
+#: inc/theme-settings.php:51 inc/theme-settings.php:197
+msgid "HTML Minify"
+msgstr ""
+
+#: inc/theme-settings.php:65
+msgid "Company Name"
+msgstr "Название компании"
+
+#: inc/theme-settings.php:71
+msgid "Company Logo"
+msgstr "Логотипом компании"
+
+#: inc/theme-settings.php:78
+msgid "Email Address"
+msgstr "Адрес E-mail"
+
+#: inc/theme-settings.php:84
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: inc/theme-settings.php:90
+msgid "Address"
+msgstr "Адрес"
+
+#: inc/theme-settings.php:102
+msgid "Copyright"
+msgstr ""
+
+#: inc/theme-settings.php:108
+msgid "Favicon"
+msgstr ""
+
+#: inc/theme-settings.php:114
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: inc/theme-settings.php:120
+msgid "Apple Touch Icon 72x72"
+msgstr ""
+
+#: inc/theme-settings.php:126
+msgid "Apple Touch Icon 144x144"
+msgstr ""
+
+#: inc/theme-settings.php:132
+msgid "Turn on Preloader"
+msgstr "Включить Preloader?"
+
+#: inc/theme-settings.php:138
+msgid "Header Login"
+msgstr ""
+
+#: inc/theme-settings.php:148
+msgid "Can change options"
+msgstr ""
+
+#: inc/theme-settings.php:172
+msgid "Header Logo"
+msgstr "Изображение заголовка"
+
+#: inc/theme-settings.php:179
+msgid "Header Title"
+msgstr "Текст заголовка"
+
+#: inc/theme-settings.php:185
+msgid "Header SubTitle"
+msgstr "Текст Подзаголовока"
+
+#: inc/theme-settings.php:203
+msgid "Ignore CSS"
+msgstr ""
+
+#: inc/theme-settings.php:209
+msgid "Ignore Comments"
+msgstr ""
+
+#: inc/theme-settings.php:215
+msgid "Exclude Info"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#. Theme URI of the plugin/theme
+msgid "StartThemeEmptyExamples"
+msgstr ""
+
+#. Description of the plugin/theme
+#. Author of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "qwerty"
+msgstr ""
+
+#~ msgid "Main menu"
+#~ msgstr "Главный Меню"
+
+#~ msgid "Search %s"
+#~ msgstr "Поиск %s"
